@@ -8,8 +8,8 @@ The plugin depends on the "EhCache":http://ehcache.org/ and "EhCache-Web":http:/
 
 h3. Contact
 
-The plugin code is hosted on [GitHub|http://github.com/robfletcher/grails-springcache]. Please feel free to fork the plugin and contribute patches.
+The plugin code is hosted on [GitHub|https://github.com/gpc/grails-springcache]. Please feel free to fork the plugin and contribute patches.
 
-Please raise defects or enhancements against the Grails Springcache plugin component on the [Codehaus JIRA|http://jira.codehaus.org/browse/GRAILSPLUGINS/component/14010].
+Please raise defects or enhancements against the Grails Springcache plugin component on the [Codehaus JIRA|http://jira.grails.org/browse/GPSPRINGCACHE].
 
 Questions, comments? [rob@energizedwork.com|mailto:rob@energizedwork.com] or better still contact me via the [Grails User mailing list|http://grails.org/Mailing+lists].
